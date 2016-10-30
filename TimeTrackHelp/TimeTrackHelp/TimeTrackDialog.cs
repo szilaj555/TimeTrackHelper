@@ -10,11 +10,11 @@ using System.Windows.Forms;
 
 namespace TimeTrackHelper
 {
-    public partial class TimeTrackDialog : Form
-    {
-        public TimeTrackDialog()
-        {
-            InitializeComponent();
-        }
-    }
+	public partial class TimeTrackDialog : Form
+	{
+		public TimeTrackDialog()
+		{
+			InitializeComponent();
+		}
+	}
 }
