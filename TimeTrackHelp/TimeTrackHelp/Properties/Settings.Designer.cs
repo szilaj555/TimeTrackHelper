@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace TimeTrackHelp.Properties
+namespace TimeTrackHelper.Properties
 {
 
 
