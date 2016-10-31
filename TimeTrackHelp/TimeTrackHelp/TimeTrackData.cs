@@ -10,7 +10,7 @@ namespace TimeTrackHelper
 	{
 		public string eventName { get; private set; }
 
-		public Event (string eventName = "Idle")
+		public Event (string eventName)
 		{
 			this.eventName = eventName;
 		}
